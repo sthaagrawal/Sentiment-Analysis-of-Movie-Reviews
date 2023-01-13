@@ -1,7 +1,7 @@
 # Sentiment-Analysis-of-Movie-Reviews
 
-Natural Language Processing task that aims to identify and classify speech or text that is harmful, abusive, or otherwise inappropriate.
+Project analyzing the sentiment of movie reviews using Natural Language Processing techniques.
 
-Implemented with a combination of several models including Pre-Trained Averaging Model with Glove Embeddings and LSTM.
+Implemented with both Count Vectorizer and TFIDF tokenizers, with a Logistic Regression model.
 
-Accuracy of 88.2% was achieved.
+An accuracy of 89% was reached.
